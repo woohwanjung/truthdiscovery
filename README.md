@@ -1,4 +1,4 @@
-##TDH EAI
+## TDH EAI
 This repository is an implementation of our TDH model and EAI algorithm in EDBT 2019 paper
 "[Crowdsourced Truth Discovery in the Presence of Hierarchies for Knowledge Fusion](https://doi.org/10.5441/002/edbt.2019.19)".
 It is implemented in Python 3.6.
@@ -14,7 +14,7 @@ python experiment.py --data birthplaces --truth_inference TDH --crowdsourcing Tr
 
 
 
-##Citation
+## Citation
 
 ```
 @inproceedings{jung2019crowdsourced,
