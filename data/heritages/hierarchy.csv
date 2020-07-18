@@ -1,0 +1,1029 @@
+ID,name,parentID
+0,Root,-1
+1,Europe and North America,0
+2,Albania,1
+3,County of Vlorë,2
+4,District of Sarandë,3
+5,Armenia,1
+6,near the village of Goght,5
+7,Kotayk' Region,6
+8,Armavir Region,5
+9,Austria,1
+10,Salzburg,9
+11,Vienna,9
+12,Azerbaijan,1
+13,Apsheron peninsula,12
+14,Belarus,1
+15,Korelichi District,14
+16,Grodno Province (oblast),15
+17,Minsk Province (Minskaya Voblasts'),14
+18,Belgium,1
+19,Province of Hainaut,18
+20,Brussels-Capital Region,18
+21,City of Brussels,20
+22,Wallonia Region,18
+23,Province of Hainaut,22
+24,Flanders Region,18
+25,City of Antwerp,24
+26,City of Brussels,18
+27,Bosnia and Herzegovina,1
+28,Herzegovina-Neretva Canton,27
+29,Sarajevo Macro Region,27
+30,Republika Srpska,29
+31,Bulgaria,1
+32,Sofia,31
+33,Boyana district,32
+34,Province of Shumen,31
+35,Village of Madara,34
+36,Province of Stara Zagora,31
+37,Kazanlak,36
+38,Burgas Province,31
+39,Razgrad Province,31
+40,Canada,1
+41,Northwest Territories,40
+42,Province of Alberta,40
+43,Province of British Columbia,40
+44,City of Quebec,40
+45,Province of Quebec,44
+46,Province of Quebec,40
+47,Gaspé Peninsula,46
+48,Nova Scotia,40
+49,Province of Ontario,40
+50,Croatia,1
+51,Adriatic Coast,50
+52,County of Dubrovnik-Neretva,51
+53,County of Split-Dalmatia,50
+54,County of Istria,50
+55,County of Šibenik-Knin,50
+56,Cyprus,1
+57,District of Paphos,56
+58,District of Larnaca,56
+59,Czechia,1
+60,South Bohemian Region,59
+61,Vysocina Region,59
+62,Trebíc district,61
+63,South Moravian Region,59
+64,Breclav District,63
+65,Olomouc Region,59
+66,Pardubice Region,59
+67,Prague,59
+68,Denmark,1
+69,Sealand Region,68
+70,City of Roskilde,69
+71,Island of Sjaelland,70
+72,Capital Region of Denmark,68
+73,City of Helsingör,72
+74,Island of Sjaelland,73
+75,Region of Southern Denmark,68
+76,Vejle Commune,75
+77,Municipality of Ilulissat,68
+78,Bay of Disko Bugt (bight),77
+79,West coast of Greenland,78
+80,Region of Southern Denmark,1
+81,Denmark,80
+82,N55 21 20 E9 28 53,81
+83,Estonia,1
+84,County of Harju,83
+85,Finland,1
+86,Province of Western Finland,85
+87,Region of Satakunta,86
+88,Region of Central Finland,86
+89,Petäjävesi,88
+90,Province of Southern Finland,85
+91,Region of Uusimaa,90
+92,Helsinki Harbour,91
+93,Province of Western Finland (formerly Province of Turku-Pori),85
+94,Region of Satakunta,93
+95,France,1
+96,Ile-de-France,95
+97,Department of Seine-et-Marne,96
+98,Department of Yvelines,96
+99,Region of Provence-Alpes-Côte-d’Azur,95
+100,Department of Vacluse,99
+101,Languedoc-Roussillon Region,95
+102,Department of Aude,101
+103,Alsace Region,95
+104,Department of Bas-Rhin,103
+105,Ile de France,95
+106,Champagne Ardenne Region,95
+107,Department of Marne,106
+108,Region of Rhône-Alpes,95
+109,Department of Rhône,108
+110,Region of Aquitaine,95
+111,Department of the Gironde,110
+112,Department of Gironde,110
+113,Region of Haute-Normandie,95
+114,Department of Seine-Maritime,113
+115,Burgundy Region,95
+116,Department of Côte d'Or,115
+117,Region of Basse-Normandie,95
+118,Department of Manche,117
+119,Bourgogne Region,95
+120,Department of Yonne,119
+121,Centre Region,95
+122,Department of Eure-et-Loire,121
+123,Department of Cher,121
+124,Picardie Region,95
+125,Department of Somme,124
+126,Poitou-Charentes Region,95
+127,Department of Vienne,126
+128,Lorraine Region,95
+129,Department of Meurthe-et-Moselle,128
+130,Georgia,1
+131,Region of Mtskheta-Mtianeti,130
+132,City of Mtskheta,131
+133,Region of Samegrelo-Zemo Svateni,130
+134,Mestia district,133
+135,Village of Chajashi,134
+136,Region of Imereti,130
+137,City of Kutaisi,136
+138,Germany,1
+139,State of Rhineland-Palatinate (Rheinland-Pfalz),138
+140,State of North Rhine-Westphalia (Nordrhein-Westfalen),138
+141,State of Saxony-Anhalt (Sachsen-Anhalt),138
+142,State of Baden-Württemberg,138
+143,District of Enz,142
+144,District of Freiburg,142
+145,District of Upper Franconia,138
+146,State of Saarland,138
+147,State of Thuringia (Thüringen),138
+148,Eisenach,147
+149,Berlin (city-state),138
+150,State of Mecklenburg-Western Pomerania (Mecklenburg-Vorpommern),138
+151,Bremen (city-state),138
+152,Bavaria,138
+153,State of Lower Saxony (Niedersachsen),138
+154,District of Hanover,153
+155,State of Schleswig-Holstein,138
+156,State of Hesse (Hessen),138
+157,District of Darmstadt-Dieburg,156
+158,District of Bergstrasse,156
+159,State of Bavaria (Bayern),138
+160,District of Lower Franconia,159
+161,Region of Upper Bavaria,159
+162,District of Weilheim-Schongau,161
+163,Town of Steingaden,162
+164,Greece,1
+165,Region of Central Greece,164
+166,Prefecture of Phokis,165
+167,Autonomous region of Mount Athos,164
+168,Region of Thessaly,164
+169,Prefecture of Trikala,168
+170,Region of Central Macedonia,164
+171,Prefecture of Thessaloniki,170
+172,Prefecture of Imathia,170
+173,Region of the Peloponnesos,164
+174,Prefecture of Argolis,173
+175,Prefecture of Laconia,173
+176,Region of the South Aegean,164
+177,Prefecture of Dodecanese,176
+178,Prefecture of Cyclades,176
+179,Region of West Greece in the Western Peloponnese,164
+180,Prefecture of Ilia,179
+181,North Aegean,164
+182,Central Greece,181
+183,Regions of Attica,182
+184,Region of the North Aegean,164
+185,Prefecture of Samos,184
+186,Corfu Prefecture,164
+187,Ionian Islands,186
+188,Holy See,1
+189,Vatican City State,188
+190,Hungary,1
+191,Budapest,190
+192,County of Nógrád,190
+193,County of Györ-Moson-Sopron,190
+194,County of Baranya,190
+195,County of Borsod-Abaúj-Zemplén,190
+196,Iceland,1
+197,district of Arnessysla,196
+198,Bláskógabyggð municipality,197
+199,Ireland,1
+200,County Meath,199
+201,County Kerry,199
+202,Israel,1
+203,Western Galilee,202
+204,Negev Region,202
+205,Italy,1
+206,Lombardy,205
+207,Province of Milano,206
+208,Province of Brescia,206
+209,Province of Bergamo,206
+210,Veneto Region,205
+211,Province of Venezia,210
+212,Tuscany,205
+213,Province of Siena,212
+214,Puglia Region,205
+215,Province of Bari,214
+216,Friuli-Venezia Giulia Region,205
+217,Province of Udine,216
+218,Liguria Region,205
+219,Province of La Spezia,218
+220,Marche Region,205
+221,Province of Pesaro,220
+222,Campania,205
+223,Province of Naples,222
+224,Province of Salerno,222
+225,Sicily,205
+226,Province of Agrigento,225
+227,Province of Enna,225
+228,Piazza Armerina,227
+229,Sardinia,205
+230,Province of Medio Campidano,229
+231,Region of Latium,205
+232,Province of Rome,231
+233,Mediterranean Sea,205
+234,Southern Tyrrhenian Sea,233
+235,Genoa Province,205
+236,Liguria Region,235
+237,Piedmont Region,205
+238,Province of Torino,237
+239,Latvia,1
+240,City of Riga,239
+241,Lithuania,1
+242,Kernave town.,241
+243,Širvintos district,242
+244,Vilnius county,243
+245,City of Vilnius,241
+246,Luxembourg,1
+247,Luxemburg,246
+248,Malta,1
+249,Island of Malta,248
+250,Commune of Paola,249
+251,Montenegro,1
+252,Republic of Montenegro,251
+253,Netherlands,1
+254,Province of Flevoland,253
+255,Noordoostpolder,254
+256,Utrecht (UT),253
+257,Provinces of Noord-Holland (NH),256
+258,Province of Friesland,253
+259,Lemsterland Municipality,258
+260,Lemmer,259
+261,Province of Noord-Holland,253
+262,Norway,1
+263,County of Hordaland,262
+264,City of Bergen,263
+265,county of Finnmark,262
+266,Alta municipality,265
+267,Vega,262
+268,Nordland,267
+269,N59 52 43 E8 35 37,262
+270,Poland,1
+271,Lesser Poland (Malopolska) Voivodship (formerly Bielsko-Biala),270
+272,Oswiecim County,271
+273,Lesser Poland (Malopolska).Voivodship (formerly Bielsko-Biala),270
+274,Lower Silesian Voivodship,270
+275,Silesia Region,274
+276,Portugal,1
+277,Région autonome des Açores,276
+278,Batalha (Leiria),276
+279,Tomar (Santarem),276
+280,District: Evora,276
+281,Province: Alentejo,280
+282,Alcobaça,276
+283,Leiria,282
+284,Sintra/Serra,276
+285,Northern region,276
+286,Island of Madeira,276
+287,District of Braga,276
+288,Province of Minho,287
+289,Trás-os-Montes e  Alto Douro,276
+290,Douro Region,289
+291,Azores,276
+292,City of Lisbon,276
+293,Romania,1
+294,Dobruja Region,293
+295,Tulcea County,294
+296,Region of Wallachia,293
+297,Vâlcea County,296
+298,Region of Transylvania,293
+299,Mureş County,298
+300,Russian Federation,1
+301,Medvezhjegorskij Region,300
+302,Karelian Autonomous S.S.R.,301
+303,City of Moscow,300
+304,Solovetsky district.,300
+305,Arkhangelsky region,304
+306,Vladimir region,300
+307,the South District,300
+308,Moscow,307
+309,town Sergiev-Posad (ex Zagorsk),300
+310,Moscow region,309
+311,Komi Republic,300
+312,Krasnodar Region,300
+313,Republic of Tatarstan,300
+314,City of Kazan,313
+315,Vologda region,300
+316,Chukot Autonomous Area,300
+317,Western coast of Caspian Sea,300
+318,Eastern Caucasus,317
+319,Dagestan,318
+320,Yaroslavl Oblast,300
+321,San Marino,1
+322,Serbia,1
+323,Republic of Serbia,322
+324,Raška District,323
+325,Vicinity of Novi Pazar,324
+326,Commune of Kraljevo,324
+327,Village of Studenica,326
+328,Autonomous province of Kosovo,322
+329,Eastern Serbia,322
+330,Slovakia,1
+331,Zilina Region,330
+332,Ružomberok District,331
+333,Spain,1
+334,Autonomous Community of Andalusia,333
+335,Province of Cordoba,334
+336,Province of Granada,334
+337,Province of Jaen,334
+338,Province of Seville,334
+339,Autonomous Community of Galicia,333
+340,Province of A Coruña,339
+341,Province of Lugo,339
+342,Autonomous Community of Castile-La Mancha,333
+343,Province of Toledo,342
+344,Province of Cuenca,342
+345,Canary Islands,333
+346,Province of Santa Cruz de Tenerife,345
+347,Island of La Gomera,346
+348,Autonomous Community of Castile-Leon,333
+349,Province of Salamanca,348
+350,Province of Léon,348
+351,Province of Ávila,348
+352,Province of Burgos,348
+353,Province of Segovia,348
+354,Balearic Islands,333
+355,Autonomous Community of Catalonia,333
+356,Province of  Tarragona,355
+357,Vimbodí,356
+358,Province of Lleida,355
+359,Province of Barcelona,355
+360,Autonomous Community of Extremadura,333
+361,Province of Badajoz,360
+362,Province of Cáceres,360
+363,"Autonomous Community of Catalonia,",333
+364,Province of Tarragona,363
+365,Autonomous Community of Valencia,333
+366,Province of Alicante,365
+367,Province of Burgos,333
+368,Province of Bizjaia,333
+369,Basque Country,368
+370,Santa Cruz de Tenerife,333
+371,Canary Island,370
+372,Sweden,1
+373,Stockholm County (Region of Uppland),372
+374,Västmanland,372
+375,Bohuslan,372
+376,Stockholm County,372
+377,Region of Ekero,372
+378,Province of Stockholm,377
+379,Island region of Gotland,372
+380,County of Norrbotten (Norrbottens län),372
+381,Blekinge County,372
+382,Island of Öland,372
+383,Kalmar County,382
+384,Dalarna Province,372
+385,Town of Falun,384
+386,County of Halland,372
+387,Switzerland,1
+388,Canton of Berne,387
+389,Town of St Gall,387
+390,Canton of St Gall,389
+391,Bellinzona,387
+392,Canton of Ticino,391
+393,the Former Yugoslav Republic of Macedonia,1
+394,Ohrid (municipality),393
+395,Turkey,1
+396,Nevşehir Province (Cappadocia) in Central Anatolia,395
+397,Çorum Province,395
+398,District of Sungurlu,397
+399,Adiyaman Province,395
+400,Denizli Province,395
+401,Province of Çanakkale,395
+402,Ukraine,1
+403,Kiev,402
+404,L’viv Oblast',402
+405,Halychyna,404
+406,United Kingdom of Great Britain and Northern Ireland,1
+407,England,406
+408,Shropshire,407
+409,Oxfordshire,407
+410,Avon,407
+411,London Borough of Tower Hamlets,407
+412,County of Kent,407
+413,London Borough of Greenwich,407
+414,West Yorkshire,407
+415,Derbyshire,407
+416,Liverpool,407
+417,Wiltshire,407
+418,County of Durham,407
+419,London,407
+420,City of Westminster,419
+421,North Yorkshire,407
+422,North Wales,406
+423,Gwynedd,422
+424,Scotland,406
+425,South Lanarkshire,424
+426,Lothian Region,424
+427,Pitcairn Island group,406
+428,St Helena Dependency,406
+429,Tristan da Cunha Island group,428
+430,Bermuda,406
+431,St George,430
+432,southwest Greater London,406
+433,London Borough of Richmond upon Thames,432
+434,County of Shropshire,406
+435,Borough of Oswestry,434
+436,County of Denbighshire,435
+437,Wrexham County Borough,436
+438,N56 00 04 W3 23 20,406
+439,Northern Ireland,406
+440,County Antrim,439
+441,United States of America,1
+442,Colorado,441
+443,State of Florida,441
+444,along the Gulf of Mexico,443
+445,Southern tip of the Florida peninsula,444
+446,Commonwealth of Pennsylvania,441
+447,Philadelphia,446
+448,California,441
+449,State of Washington,441
+450,New York,441
+451,New York,450
+452,New Mexico,441
+453,Hawaii,441
+454,State of New Mexico,441
+455,Eddy County,454
+456,Virginia,441
+457,Illinois,441
+458,St. Louis,457
+459,Puerto Rico,441
+460,San Juan,459
+461,Arab States,0
+462,Algeria,461
+463,Wilaya (province) of M'Sila,462
+464,"Commune of Maadid ""Bechara""",463
+465,Wilaya (province) of Ghardaïa,462
+466,Wilaya  (province) of Setif,462
+467,Wilaya (province) of Batna,462
+468,Commune of Timgad,467
+469,Bahrain,461
+470,Northern Region,469
+471,Egypt,461
+472,Governorate of Giza,471
+473,Governorate of Qina,471
+474,Governorate of Aswan,471
+475,Governorate of al-Qahirah (Cairo),471
+476,Gouvernate of Al Iskandariyah (Alexandria),471
+477,District of Burg al-Arab,476
+478,Mariut desert,477
+479,Governorate of Janub Sina' (South Sinai),471
+480,Faiyum Governorate,471
+481,Iraq,461
+482,Governorate of Ninawa,481
+483,Governorate of Salah ad Din,481
+484,Salah al-Din Governorate,481
+485,Samarra Township,484
+486,Jerusalem (Site proposed by Jordan),461
+487,Jerusalem District,486
+488,Jordan,461
+489,Ma’an Governorate,488
+490,Eastern desert,488
+491,Az Zarqa' Governorate,490
+492,Madaba Governorate,488
+493,Lebanon,461
+494,Beqaa Governorate,493
+495,District of Zahle,494
+496,Governorate of North Lebanon,493
+497,Becharre District,496
+498,Qadisha Valley,497
+499,Libya,461
+500,District of Khoms,499
+501,District of Zawia,499
+502,District of Ghebel Akhdar,499
+503,Fezzan,499
+504,Morocco,461
+505,City of Fez,504
+506,Province of Marrakesh,504
+507,Tensift Region,504
+508,Province of Essaouira,507
+509,Wilaya de Meknes,504
+510,region centre sud,509
+511,Medina of Tétouan,504
+512,Province of Tétouan,511
+513,Wilaya de Tétouan,512
+514,Region Nord-Ouest,513
+515,Province El Jadida,504
+516,Region: Doukkala-Abda,515
+517,Wilaya de Meknès,504
+518,Province Meknès El Menzeh Meulay-Idriss Zerhoun,517
+519,Oman,461
+520,Al Dhahira region,519
+521,Dhofar Province,519
+522,Palestine,461
+523,Qatar,461
+524,Saudi Arabia,461
+525,Sudan,461
+526,province of Meroe,525
+527,Northern state,526
+528,Syrian Arab Republic,461
+529,Aleppo,528
+530,Governorate of Deraa,528
+531,Province of Homs,528
+532,Administrative District of Damascus,528
+533,Tunisia,461
+534,District of Tunis,533
+535,Gouvernorat de Nabeul,533
+536,Gouvernat de Beja,533
+537,El-Mahdia,533
+538,Gouvernorat de Kairouan,533
+539,Gouvernorat de Sousse,533
+540,Tunis,533
+541,United Arab Emirates,461
+542,Yemen,461
+543,Seiyun District,542
+544,in the Wadi Hadramaut,543
+545,Hadramaut Governorate,544
+546,Governorate of the capital Sana’a,542
+547,Province d'al-Hudayda,542
+548,Latin America and the Caribbean,0
+549,Antigua and Barbuda,548
+550,Argentina,548
+551,Santa Cruz,550
+552,Province: Misiones,550
+553,Region: Nord-Est,552
+554,Santa Cruz Province,550
+555,Patagonia Region,554
+556,Province of Cordoba,550
+557,Province of Juyuy,550
+558,Barbados,548
+559,Bolivia (Plurinational State of),548
+560,Province of Potosi,559
+561,Potosi,560
+562,Department of Santa Cruz,559
+563,Province of Florida,562
+564,Province Oropeza,559
+565,Department de Chuquisaca,564
+566,Department of La Paz,559
+567,Province of Ingavi,566
+568,Santa Cruz Department,559
+569,Velasco Province,568
+570,Brazil,548
+571,State of Minas Gerais,570
+572,North-East Region of Brazil,570
+573,State of Pernambuco,572
+574,north-east region of Brazil,570
+575,Bahia State,574
+576,City of Congonhas,570
+577,State of Minas Gerais,576
+578,Paraná State,570
+579,Federal District,570
+580,Sao Joao do Piaui et Canto do Butriti,570
+581,Sud-est de Etat du Piaui,580
+582,Communes de Sao Raimundo Nonato,581
+583,Brasil’s North-East Region,570
+584,Maranhão State,583
+585,State of Goiás,570
+586,Central Brazil Plateau,585
+587,State of Amazonas,570
+588,Chile,548
+589,Easter Island province of the Valparaíso Region,588
+590,Province Valparaíso,588
+591,Fifth Region,590
+592,Municipality of Machali,588
+593,Province of Cachapoal,592
+594,Libertador General Bernardo O'Higgins Region,593
+595,Province of Iquique,588
+596,Colombia,548
+597,Bolivar Department,596
+598,Bolívar Department,596
+599,in the “corregimiento” of San Andres de Pisimbalá,596
+600,in the jurisdiction of the municipality of Inza,599
+601,Department of Cauca,600
+602,Valle del Cauca Region,596
+603,Costa Rica,548
+604,South Eastern Tropical Pacific,603
+605,Province of Puntarenas,604
+606,Cuba,548
+607,Province of Ciudad de la Habana,606
+608,Province of Sancti Spiritus,606
+609,Province of Pinar del Rio,606
+610,Provincia de Santiago de Cuba,606
+611,south-east corner of the the Republic of Cuba,606
+612,Desembarco del Granma National Park,611
+613,Municipality of Cienfuegos,606
+614,Camagüey Province,606
+615,Dominica,548
+616,South central part of the island,615
+617,Dominican Republic,548
+618,Distrito Nacional,617
+619,Ecuador,548
+620,Province of Azuay,619
+621,El Salvador,548
+622,jurisdiction of San Juan Opico,621
+623,Canton Joya de Ceren,622
+624,Department of La Libertad,623
+625,Guatemala,548
+626,Department of El Peten,625
+627,Panchoy Valley,625
+628,Department of Sacatepéquez,627
+629,Department of Izabal,625
+630,Haiti,548
+631,Département du Nord,630
+632,Honduras,548
+633,Northeast of the country in the area known as the “Mosquitia Hondureña”,632
+634,Jamaica,548
+635,Mexico,548
+636,Cozumel et Felipe Carrillo Puerto,635
+637,Quintana Roo,636
+638,Municipality of Palenque,635
+639,State of Chiapas,638
+640,Venustiano Carranza et Xochimilco,635
+641,District Federal.  Delegations: Cuauhtemoc,640
+642,Xoxocotlan et Cuilapan,635
+643,municipalites de Oaxaca,642
+644,Etat de Oaxaca de Juarez,643
+645,San Pedro Cholula et San Andres Cholula,635
+646,municipalites de Puebla,645
+647,Etat de Puebla,646
+648,Etat de: Guanajuato.   Municipalite:  Guanajuato,635
+649,Municipalité de Tinum,635
+650,Etat de Yucatan,649
+651,Municipality of Mulege,635
+652,Basse Californie Sud,651
+653,State of Chihuahua,635
+654,Municipality of Casas Grandes,653
+655,Michoacan. Mairie de Morelia,635
+656,municipalité de Papantla,635
+657,Etat de Veracruz,656
+658,Zacatecas Municipality,635
+659,Zacatecas State,658
+660,State: Lower California Sud Municipality,635
+661,municipalites Muna et Santa Elena,635
+662,Etat de Yucatan,661
+663,municipalité de Querétaro,635
+664,Etat Querétaro,663
+665,Guadalajara,635
+666,Jalisco,665
+667,Tlacotalpan Municipality,635
+668,State of Veracruz,667
+669,State of Campeche,635
+670,State of Querétaro de Arteaga (Sierra Gorda region),635
+671,Mexico City,635
+672,Jalisco State,635
+673,Valles Region,672
+674,Guanajuato Region,635
+675,N19 50 07 W98 39 45.24,635
+676,Nicaragua,548
+677,Department of León,676
+678,Municipality of La Paz Centro,677
+679,Puerto Momotombo,678
+680,Panama,548
+681,Province of Colon,680
+682,Distric of Cristobal,681
+683,Province of Darien,680
+684,Panama’ District,680
+685,Panama’ Province,684
+686,Paraguay,548
+687,Peru,548
+688,City of Cuzco,687
+689,Chavin District,687
+690,Huari Province,689
+691,Ancash Department,690
+692,District of Huanchaco,687
+693,City of Lima,687
+694,District of Huicungo,687
+695,Province Mariscal Caceres,694
+696,Department of San Martin,695
+697,Libertadores / Wari Region,687
+698,Province of Arequipa,687
+699,Provincias: Manu y Paucartambo,687
+700,Dep. Madre de Dios y Cusco,699
+701,Saint Kitts and Nevis,548
+702,St Christopher   (St Kitts),701
+703,Parish of St Thomas,702
+704,Saint Lucia,548
+705,southwestern region of St Lucia,704
+706,near the town of Soufriere,705
+707,Suriname,548
+708,District of Paramaribo,707
+709,District Sipaliwini,707
+710,Uruguay,548
+711,Department de Colonia,710
+712,Venezuela (Bolivarian Republic of),548
+713,State of Falcon,712
+714,Bolivar State,712
+715,Caracas,712
+716,Municipality of Libertador,715
+717,Africa,0
+718,Benin,717
+719,Province du Zou,718
+720,Botswana,717
+721,north-west  Botswana,720
+722,The Ngamiland District,721
+723,Burkina Faso,717
+724,Cabo Verde,717
+725,Cameroon,717
+726,du Haut-Nyong pour la partie Est),725
+727,Provinces du Sud et de l’Est (Départments: du Dja-et-LOBO pour la partie Ouest,726
+728,Central African Republic,717
+729,Bamingui-Bangoran,728
+730,Chad,717
+731,Côte d'Ivoire,717
+732,Democratic Republic of the Congo,717
+733,Orientale Province,732
+734,Ethiopia,717
+735,Gondar Region,734
+736,Afar region,734
+737,Southern Nation Nationalities & Peoples Region,734
+738,Gurage zone,737
+739,Sodo woreda,738
+740,Tigrai Region,734
+741,Amhara Region,734
+742,Harari Region,734
+743,Ghana,717
+744,Asante Region,743
+745,Kenya,717
+746,Lamu District,745
+747,Coast Province,746
+748,Coast Province,745
+749,Madagascar,717
+750,dans le Fivondronana d’Antsalova et le Faritany de Mahajanga,749
+751,Centre Ouest,750
+752,Province of Antananarivo  Avaradrano,749
+753,Municipality of Ambohimanga  Rova,752
+754,Malawi,717
+755,Central Region,754
+756,Dedza District,755
+757,Mali,717
+758,Region of Mopti,757
+759,Djenné Circle,758
+760,Mopti Region,757
+761,Bandiagara Circle,760
+762,Mauritius,717
+763,Port Louis District,762
+764,Mozambique,717
+765,Nampula Province,764
+766,Ilha de Mocambique District,765
+767,Namibia,717
+768,Kunene Region,767
+769,Niger,717
+770,arrondissement d’Arlit,769
+771,Départment d’Agades,770
+772,arrondisement de Say,769
+773,Départment  de Tillaberi,772
+774,Nigeria,717
+775,Adamawa State,774
+776,Madagali Local Government Area,775
+777,Osun State,774
+778,Osogbo,777
+779,Senegal,717
+780,Delta of the River Senegal,779
+781,Cape Verde Region,779
+782,Region of Saint-Louis,779
+783,Seychelles,717
+784,Praslin Island,783
+785,South Africa,717
+786,KwaZulu-Natal,785
+787,Western Cape Province,785
+788,Northern Cape,785
+789,Northern Province,785
+790,Togo,717
+791,Kara Region,790
+792,Uganda,717
+793,Kampala District,792
+794,United Republic of Tanzania,717
+795,District of Kilwa,794
+796,Lindi Region,795
+797,Zanzibar,794
+798,Kilimanjaro region,794
+799,District Kondoa,794
+800,Region Dodoma,799
+801,Zimbabwe,717
+802,Mashonaland North region,801
+803,Urungwe District,802
+804,South Province,801
+805,Matebeleland,804
+806,Matabeleland,801
+807,Western Region,806
+808,Asia and the Pacific,0
+809,Afghanistan,808
+810,Ghur Province,809
+811,Shahrak District,810
+812,Australia,808
+813,State of Queensland,812
+814,Off the east coast of the Queensland mainland,813
+815,New South Wales,812
+816,Northern territory,812
+817,State of Western Australia,812
+818,State of Tasmania,812
+819,Western Australia,812
+820,Victoria,812
+821,Melbourne,820
+822,Bangladesh,808
+823,Khulna District,822
+824,Naogaon Subdivision of Rajshahi District,822
+825,South-Western Region (Khulna Division),822
+826,Cambodia,808
+827,Province Siem Reap,826
+828,China,808
+829,25 kilometres southeast of the County seat.,828
+830,Gansu Province.  At the eastern foot of Mount Mingsha,829
+831,Dunhuang County,830
+832,Shaanxi Province,828
+833,Lintong County,832
+834,Beijing,828
+835,Fangshanxian County,834
+836,Tiantan Park,834
+837,Sichuan Province,828
+838,Nanping County,837
+839,Songpan County,837
+840,Eimeishan City,837
+841,Dujiangyan City,837
+842,Hunan Province,828
+843,The Wulingyuan District of the City of Dayong,842
+844,Hebei Province,828
+845,Chengde City,844
+846,Shandong Province,828
+847,Qufu City,846
+848,Hubei Province,828
+849,Danjiangkou City,848
+850,Tibet Autonomous Region,828
+851,Lhasa,850
+852,Jiangxi Province,828
+853,Jiujiang City,852
+854,Shan Xi Province,828
+855,Ping Yao County,854
+856,Jiangsu Province,828
+857,Suzhou City,856
+858,Fujian Province,828
+859,Wuyishan City,858
+860,Chongqing Municipality,828
+861,Dazu County,860
+862,Anhui Province,828
+863,Huangshan city,862
+864,Yi county,863
+865,Henan Province,828
+866,Luoyang City,865
+867,Shanxi Province,828
+868,Datong City,867
+869,Macao Special Administrative Region,828
+870,Guangdong Province,828
+871,Democratic People's Republic of Korea,808
+872,South Hwangghae Province,871
+873,Nampho,872
+874,South Phyongan Province,873
+875,Pyongyang,874
+876,Fiji,808
+877,India,808
+878,Delhi,877
+879,State of Goa,877
+880,Badami Taluk,877
+881,Bijapur District,880
+882,State of Karnataka,881
+883,State of Madhya Pradesh,877
+884,Lenapur Village,877
+885,Soyagon Taluka,884
+886,Aurangabad District,885
+887,Maharashtra State,886
+888,Verul Village,877
+889,Khulatabad Taluk,888
+890,Aurangabad District,889
+891,Maharashtra State,890
+892,District Kolaba (Island of Elephanta),877
+893,Maharashtra State,892
+894,Puri District,877
+895,State of Orissa,894
+896,Chingleput District,877
+897,Tamil Nadu State,896
+898,Agra District,877
+899,Uttar Pradesh,898
+900,State of Uttaranchal,877
+901,State of Assam,877
+902,West Bengal,877
+903,Madhya Pradesh,877
+904,Maharashtra State,877
+905,City of Mumbai,904
+906,Eastern India,877
+907,State of Bihar,906
+908,district of Panchmahal,877
+909,Gujarat state,908
+910,New Delhi,877
+911,Central District,910
+912,New Delhi State,911
+913,Bellary District,877
+914,Karnataka,913
+915,State of Bihar,877
+916,Indonesia,808
+917,Province of Central Java,916
+918,Regency of Magelang,917
+919,East Nusa Tenggara Province,916
+920,Province of Papua (formerly Irian Jaya),916
+921,Iran (Islamic Republic of),808
+922,Khuzestan,921
+923,Fars,921
+924,Esfahan,921
+925,Western Azerbaijan Province,921
+926,Pars Province,921
+927,Zanjan province,921
+928,Province of Kermanshah,921
+929,Bam District,921
+930,Kerman Province,929
+931,Japan,808
+932,Nara Prefecture,931
+933,Hyogo Prefecture,931
+934,Hiroshima Prefecture,931
+935,Tochigi Prefecture,931
+936,Okinawa Prefecture,931
+937,Hokkaido prefecture,931
+938,Ohda City District,931
+939,Shimane Prefecture,938
+940,Kazakhstan,808
+941,City of Turkestan,940
+942,South Kazakhstan Oblast,941
+943,Almaty Oblast,940
+944,Kiribati,808
+945,Kyrgyzstan,808
+946,Lao People's Democratic Republic,808
+947,Champasak Province,946
+948,Province of Luang Prabang,946
+949,Malaysia,808
+950,State of Sabah,949
+951,island of Borneo,949
+952,northern Sarawak,951
+953,Marshall Islands,808
+954,Micronesia (Federated States of),808
+955,Mongolia,808
+956,Orkhon-Kharkorin Region,955
+957,Myanmar,808
+958,Nepal,808
+959,Solu-Khumbu District of the Sagarmatha Zone,958
+960,Chitwan District of the Narayani Zone,958
+961,Western Terai,958
+962,Rupandehi District,961
+963,Lumbini Zone,962
+964,Kathmandu Valley,958
+965,New Zealand,808
+966,Southwest of South Island,965
+967,New Zealand Subantartic zone,965
+968,Pakistan,808
+969,Sind,968
+970,Province of Punjab,968
+971,North West Frontier Province,968
+972,Province of Sind,968
+973,Punjab,968
+974,Lahore,973
+975,Jhelum City,973
+976,Palau,808
+977,Papua New Guinea,808
+978,Philippines,808
+979,Province of Ilocos Sur,978
+980,Palawan Province,978
+981,Luzon Island,978
+982,Cordillera Region,981
+983,Ifugao Province,982
+984,Province of Palawan,978
+985,Municipality  of Cagayancillo,984
+986,Republic of Korea,808
+987,Gyeongju City,986
+988,Seoul,986
+989,Gyeonggi-do Province,986
+990,Gyeongsangbuk-do Province,986
+991,Gyeongju City,990
+992,Singapore,808
+993,Sri Lanka,808
+994,Anuradhapura District,993
+995,North Central Province,994
+996,Polonnaruva District,993
+997,North Central Province,996
+998,Matale District,993
+999,Central Province,998
+1000,Central Province,993
+1001,Southern Province,993
+1002,City of Galle,1001
+1003,Tajikistan,808
+1004,Thailand,808
+1005,Udon Thani Province,1004
+1006,Ayutthaya Province,1004
+1007,Turkmenistan,808
+1008,Mary Vilayet,1007
+1009,Dashoguz Vilayet (Province),1007
+1010,Akhal Vilayet,1007
+1011,Etrap of Rukhabad,1010
+1012,Bagyr settlement,1011
+1013,Uzbekistan,808
+1014,Khiva,1013
+1015,Khorezm region,1014
+1016,Samarkand Region,1013
+1017,Kashkadarya region,1013
+1018,Bukhara region,1013
+1019,Vanuatu,808
+1020,Viet Nam,808
+1021,Province: Quang Ninh,1020
+1022,Province: Thua Thien,1020
+1023,Hue,1022
+1024,Quang Nam Province,1020
+1025,Hoi An Town,1024
+1026,Duy Xuyen District,1024
+1027,Duy Phu Commune,1026
